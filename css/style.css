@@ -103,8 +103,11 @@ section img{
 @media (max-width: 480px) {
 
     header img {
+    width: 150px;
+    height: 24px;
     margin: 32px 0 0 16px;
     }
+    
     h1{
         font-size: 40px;
     }
